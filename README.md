@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá! Sou a Ismênia 👋
 
-<!--
-**ismeniasousa/ismeniasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição de carreira para **Análise de Dados e CRM**, unindo formação técnica com 7 anos de experiência prática em gestão de e-commerce e atendimento ao cliente.
 
-Here are some ideas to get you started:
+🔍 **No momento, estou:**
+- Aplicando análise de dados ao meu próprio negócio (Amo Cosméticos), usando dados reais de vendas, clientes e comportamento de compra
+- Estudando SQL, Power BI e Looker Studio
+- Construindo automações com n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Ferramentas que utilizo:**
+`Power BI` `Excel Avançado` `SQL (em estudo)` `Looker Studio` `n8n`
+
+📂 **Projetos em destaque:**
+Os repositórios abaixo reúnem minhas análises e dashboards — incluindo o estudo de dados da Amo Cosméticos, meu próprio e-commerce.
+
+📫 **Contato:** a.ismenia@gmail.com
